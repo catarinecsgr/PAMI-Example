@@ -38,7 +38,7 @@
 
             <Button
                 x:Name="HelloBtn"
-                Text="Enviar nome" 
+                Text="Enviar nome!" 
                 SemanticProperties.Hint="Says hello to the user"
                 Clicked="OnNameClicked"
                 HorizontalOptions="Fill" />
